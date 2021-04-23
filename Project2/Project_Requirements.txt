@@ -1,0 +1,15 @@
+Project 2 Steps:
+
+Step 1: Check files and directories and them to the queue
+Step 2: Check the WFD and them to the struct
+Step 3: Calculate the JSD and add them to the final struct
+
+
+Data Structure Required:
+
+2 queues for files and directory
+1 struct for the WFD repository
+1 struct for the final answer
+Alphabetical list of the words
+1 function to calculate the WFD
+1 function to calculate the JSD
